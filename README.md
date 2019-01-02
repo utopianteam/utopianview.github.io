@@ -45,7 +45,7 @@ plugins:
 
 ## Screenshots
 
-<div class="large">
+<div class="large" markdown="1">
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/50294425-2da5bf80-0476-11e9-8a27-8c59a7192cf6.png)
 
