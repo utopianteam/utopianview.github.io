@@ -39,7 +39,7 @@ $$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2
 
 Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
 
-[![Flower](/contrast/assets/flower.jpg)](/contrast/assets/flower.jpg)
+[![Flower](/contrast-demo/assets/flower.jpg)](/contrast-demo/assets/flower.jpg)
 
 [Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
 
@@ -53,6 +53,6 @@ You can also embed a lot of stuff, for example from YouTube. To scale the video 
 
 You can use a `.large` wrapper to increase the width of an image or iframe:
 
-<a class="large" href="/contrast/assets/swiss-alps.jpg">![Swiss Alps](/contrast/assets/swiss-alps.jpg)</a>
+<a class="large" href="/contrast-demo/assets/swiss-alps.jpg">![Swiss Alps](/contrast-demo/assets/swiss-alps.jpg)</a>
 
 [Swiss Alps](https://unsplash.com/photos/u0DmxB76uF4) by René Reichelt

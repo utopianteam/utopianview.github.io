@@ -45,6 +45,8 @@ plugins:
 
 ## Screenshots
 
+<div class="large">
+
 ![screenshot](https://user-images.githubusercontent.com/4943215/50294425-2da5bf80-0476-11e9-8a27-8c59a7192cf6.png)
 
 ### Dark theme
@@ -66,3 +68,5 @@ plugins:
 ### With navbar and style: frame
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/50602509-c34e3f80-0eb7-11e9-8aa3-5e07650daeaf.png)
+
+</div>
