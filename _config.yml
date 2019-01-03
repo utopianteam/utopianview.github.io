@@ -25,7 +25,7 @@ dark_header: false           # uses dark header whether dark_theme is enabled or
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:niklasbuschmann@users.noreply.github.com"
   github: "https://github.com/niklasbuschmann/contrast"
-  rss: "/contrast/feed.xml"
+  rss: "/contrast-demo/feed.xml"
 
 comments:                    # embed disqus or isso comments
 #  disqus: "disqus-contrast"
