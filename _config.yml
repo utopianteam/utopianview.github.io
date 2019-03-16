@@ -26,6 +26,7 @@ icons:                       # (optional) icons in the header, see http://fontaw
   envelope: "mailto:niklasbuschmann@users.noreply.github.com"
   github: "https://github.com/niklasbuschmann/contrast"
   rss: "/contrast-demo/feed.xml"
+  linkedin: "https://www.linkedin.com/in/ajhenaor/"
 
 comments:                    # embed disqus or isso comments
 #  disqus: "disqus-contrast"
