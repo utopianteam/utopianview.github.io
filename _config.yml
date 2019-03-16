@@ -23,9 +23,7 @@ dark_header: false           # uses dark header whether dark_theme is enabled or
 #  - README.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/niklasbuschmann/contrast"
-  rss: "/contrast-demo/feed.xml"
+  envelope: "mailto:ajhenaor@unal.edu.co"
   linkedin: "https://www.linkedin.com/in/ajhenaor/"
 
 comments:                    # embed disqus or isso comments
