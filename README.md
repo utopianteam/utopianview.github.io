@@ -40,6 +40,17 @@ plugins:
 - [KaTeX](https://katex.org/)
 - [Pygments](https://github.com/richleland/pygments-css)
 
+## Installation (jekyll-remote-theme method)
+
+You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, add `index.html` and `archive.html` files (they can be empty but need to contain front matter) and add this to your `_config.yml`:
+
+```yaml
+remote_theme: niklasbuschmann/contrast
+
+plugins:
+  - jekyll-remote-theme
+```
+
 ## License
 
 [public domain](http://unlicense.org/)
