@@ -19,10 +19,10 @@ navigation:                  # (optional) site navigation in the header
 #  - README.md
 #  - title: "https://"       # linking external sites is also supported
 
-icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/niklasbuschmann/contrast"
-  rss: "/contrast/feed.xml"
+#icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
+#  envelope: ""
+#  github: ""
+#  rss: "/contrast/feed.xml"
 
 # Pagination
 show_excerpts: false         # preview articles on the home page
